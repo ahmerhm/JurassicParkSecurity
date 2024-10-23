@@ -6,6 +6,9 @@ This project was developed as part of my Internal Assessment for the IB Computer
 
 The client approached with a problem related to security management, and my role was to develop a Java-based solution to address this issue.
 
+## Want to Understand what the Project does without Worrying about the technical BS?
+Watch this [Product Demonstration Video](https://github.com/ahmerhm/JurassicParkSecurity/blob/main/Product/Crit_D_Video.mp4)
+
 ## Stages/Parts
 
 ### 1. Planning

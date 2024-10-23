@@ -2,7 +2,7 @@
 
 This project was developed as part of my Internal Assessment for the IB Computer Science course during my senior year of high school. It simulates a "real-life" software development scenario where the developer is tasked with solving a problem for a client. The project follows multiple stages of the software life cycle, as practiced in the real world, including planning, development, client interaction, and evaluation.
 
-## Scenario
+### Scenario
 
 The client approached with a problem related to security management, and my role was to develop a Java-based solution to address this issue.
 

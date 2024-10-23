@@ -10,6 +10,7 @@ The client approached with a problem related to security management, and my role
 Download and Watch this [Product Demonstration Video](https://github.com/ahmerhm/JurassicParkSecurity/blob/main/Product/Crit_D_Video.mp4)
 
 ## Stages/Parts
+- All parts are in the documentation folder except part 4 which is the video linked above.
 
 ### 1. Planning
 - **Problem Description:** The client faced a security management issue that required an automated system for monitoring access points.

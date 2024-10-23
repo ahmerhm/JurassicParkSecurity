@@ -9,6 +9,12 @@ The client approached with a problem related to security management, and my role
 ## Want to Understand what the Project does without Worrying about the technical BS?
 Download and Watch this [Product Demonstration Video](https://github.com/ahmerhm/JurassicParkSecurity/blob/main/Product/Crit_D_Video.mp4)
 
+### Source Code & Runnability
+- The source code is located inside the `JurassicParkSecurity` folder under `src`.
+- As this project was developed during high school, I didn't have the resources to host a dedicated REST API. Instead, I used **sheet.best**, a free service that allowed up to 200 connection requests.
+- If you're interested in contributing, you could enhance this project by finding another service that converts Google Sheets into API endpoints. This would involve refactoring the code and updating the connection URL.
+- While this limitation exists, the project still demonstrates my skills effectively through the video demonstration provided, which was sufficient to showcase the product's functionality during the assessment.
+
 ## Stages/Parts
 - All parts are in the documentation folder except part 4 which is the video linked above.
 
